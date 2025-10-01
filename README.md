@@ -63,8 +63,7 @@
 ###
 
 <div align="center">
-![folps's Stats](https://github-readme-stats.vercel.app/api?username=folps&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</div>
-
+https://github-readme-stats.vercel.app/api?username=folps&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
 ###
 
 <picture>
