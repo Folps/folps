@@ -20,7 +20,18 @@
 
 ###
 
-<p align="left">I'm an advanced student of the *Information Technology Analyst* program at Universidad ORT Uruguay, based in Montevideo 🇺🇾. (https://fi.ort.edu.uy/analista-en-tecnologias-de-la-informacion)  <br><br>- 🔭 I’m working as an IT Quality Assurance Corporate Analyst in the pharmaceutical industry in Adium Pharma, leading validation projects for equipment, processes, and software under FDA, EU GMP, and GAMP standards. I specialize in manual testing (functional, integration, regression, UAT), technical documentation, and regulatory compliance across multiple subsidiaries.  <br><br>- 📚 I'm currently learning statistics and data analytics, focusing on advanced Excel, SQL, Power BI, and Python for Data Analysis. I’m also deepening my knowledge through specialized courses on Udemy and Coursera to strengthen my skills in data visualization, KPI tracking, and predictive modeling.  <br><br>- ⚡ In my free time, I play lead guitar in a Beatles tribute band, channeling George Harrison’s melodic style and precision. Music is a vital part of my life—it fuels creativity, sharpens focus, and brings balance to my professional routine. I also swim regularly to stay physically and mentally fit, and I dedicate time to online learning platforms like Udemy and Coursera to keep evolving in both technical and analytical domains.</p>
+<p align="left">
+I'm an advanced student of the <strong>Information Technology Analyst</strong> program at Universidad ORT Uruguay, based in Montevideo 🇺🇾. (https://fi.ort.edu.uy/analista-en-tecnologias-de-la-informacion)
+<br><br>
+
+- 🔭 I’m focused on Quality Assurance (QA) and software testing, with experience in manual testing (functional, integration, regression, UAT), test documentation, and validation activities. I work with attention to detail to ensure software quality and reliability in real-world systems.
+<br><br>
+
+- 🧪 I’m currently developing my skills in test automation with Playwright and strengthening my knowledge of SQL for data validation and analysis. I’m also learning tools and concepts related to data analytics to expand my technical profile.
+<br><br>
+
+- ⚡ In my free time, I enjoy learning new technologies, solving problem-solving challenges, and continuously improving my technical and analytical skills. I like combining structured thinking with curiosity to understand how systems behave under different conditions.
+</p>
 
 ###
 
